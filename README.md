@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fprajeet14%2Flabs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fprajeet14%2Flabs?ref=badge_shield)
+
 
 | *Name* | *Description* |
 |:--------------|:--------------|
@@ -25,3 +27,7 @@
 | CVE-2018-10562 | An issue was discovered on Dasan GPON home routers. Command Injection can occur via the dest_host parameter in a diag_action=ping request to a GponForm/diag_Form URI. Because the router saves ping results in /tmp and transmits them to the user when the user revisits /diag.html, it's quite simple to execute commands and retrieve their output. |
 | MS17_010 | https://docs.microsoft.com/en-us/security-updates/securitybulletins/2017/ms17-010 |
 | NETCORE_NETDIS_UDP-53413-BACKDOOR | http://blog.trendmicro.com/trendlabs-security-intelligence/netis-routers-leave-wide-open-backdoor/ |
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fprajeet14%2Flabs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fprajeet14%2Flabs?ref=badge_large)
